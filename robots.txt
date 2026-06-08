@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: https://docmo-atmyortodoncia.com/sitemap.xml
